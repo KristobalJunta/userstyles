@@ -1,0 +1,4 @@
+/* fixes horizontal scroll for bulletjournal.com */
+footer.footer {
+    overflow-x: hidden;
+}
